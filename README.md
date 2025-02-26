@@ -1,4 +1,4 @@
-this contains all the sensor file I am working on
+This contains all the sensor file I am working on
 the files named "Work-"(file name)" are working file's
 that will compile and run.
 NOTE: there are sometimes Two file of the same code
